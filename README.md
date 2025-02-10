@@ -19,7 +19,7 @@ A React Native Expo mobile application that helps you make informed investment d
 
 1. Clone the repository and install dependencies:
 ```bash
-git clone <repository-url>
+git clone https://github.com/sabela-selu/ai_investment_agent_mobile.git
 cd ai_investment_agent
 
 # Install frontend dependencies
